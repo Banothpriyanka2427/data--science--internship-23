@@ -1,0 +1,14 @@
+import streamlit as st
+st.title("Banoth priyanka")
+
+st.header("Data Science intern @ Innomatics Reserach Lab")
+
+st.subheader("Passionate about data science and in a journey to drill deep into data science and would love to connect people insterested in data.")
+
+st.header("Connect with me")
+
+if st.button("Linkedin"):
+    st.write("https://www.linkedin.com/in/banoth-priyanka/")
+
+if st.button("Github"):
+    st.write("https://github.caom/Banothpriyanka2427")
